@@ -2,7 +2,7 @@
 
 I build a simple chatbot using PyTorch and Deep Learning, with basics of Natural Language Processing (NLP) techniques.
 
-1) Theory + NLP concepts (Stemming, Tokenization, bag of words)
+1) NLP concepts (Stemming, Tokenization, bag of words)
 2) Create training data
 3) PyTorch model and training
 4) Save/load model and implement the chat
